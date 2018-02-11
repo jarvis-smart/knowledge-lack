@@ -1,2 +1,4 @@
 'Schuh'
+'Brain'
+'Mind'
 ''
